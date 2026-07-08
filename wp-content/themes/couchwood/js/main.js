@@ -184,8 +184,8 @@ jQuery(function( $ ){
 	    slidesToShow: 1,
 	    slidesToScroll: 1,
 	    arrows: false,
-	    nextArrow: '<a class="slick-prev-arrow slick-arrow"><img class="max30" src="/wp-content/themes/couchwood/images/arrow-right-circle.png" alt="arrow" /></a>',
-	  	prevArrow: '<a class="slick-next-arrow slick-arrow"><img class="max30" src="/wp-content/themes/couchwood/images/arrow-left-circle.png" alt="arrow" /></a>',
+	    nextArrow: '<a class="slick-prev-arrow slick-arrow"><img class="max30" src="./../../wp-content/themes/couchwood/images/arrow-right-circle.png" alt="arrow" /></a>',
+	  	prevArrow: '<a class="slick-next-arrow slick-arrow"><img class="max30" src="./../../wp-content/themes/couchwood/images/arrow-left-circle.png" alt="arrow" /></a>',
 	    draggable: false,
 	    fade: true,
 	    asNavFor: '.housesSlider',
@@ -202,8 +202,8 @@ jQuery(function( $ ){
     	swipeToSlide: true,
 	  	slidesToShow: 5,
 	  	slidesToScroll: 1,
-	  	nextArrow: '<a class="slick-prev-arrow slick-arrow"><img class="max30" src="/wp-content/themes/couchwood/images/arrow-right-circle.png" alt="arrow" /></a>',
-	  	prevArrow: '<a class="slick-next-arrow slick-arrow"><img class="max30" src="/wp-content/themes/couchwood/images/arrow-left-circle.png" alt="arrow" /></a>',
+	  	nextArrow: '<a class="slick-prev-arrow slick-arrow"><img class="max30" src="./../../wp-content/themes/couchwood/images/arrow-right-circle.png" alt="arrow" /></a>',
+	  	prevArrow: '<a class="slick-next-arrow slick-arrow"><img class="max30" src="./../../wp-content/themes/couchwood/images/arrow-left-circle.png" alt="arrow" /></a>',
 	  	asNavFor: '.housesHero',
 	  	responsive: [
 		    {
